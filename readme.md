@@ -1,1 +1,1 @@
-## various projects using teh Heltec WiFi-Kit8 (ESP8266)
+## various projects using Heltec WiFi-Kit8 (ESP8266)
